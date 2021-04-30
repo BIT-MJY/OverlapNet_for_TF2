@@ -1,8 +1,8 @@
 # OverlapNet_for_TF2
-Here is an OverlapNet based on TF2.4 version for easier reproducing
+Here is OverlapNet based on TF2.4 for easier reproducing
 
 
-The OverlapNet based on TF1.5 from [this link](https://github.com/PRBonn/OverlapNet.git) developed by Xieyuanli Chen and Thomas Läbe.
+OverlapNet based on TF1.5 from [this link](https://github.com/PRBonn/OverlapNet.git) developed by Xieyuanli Chen and Thomas Läbe.
 
     
 	@inproceedings{chen2020rss, 
