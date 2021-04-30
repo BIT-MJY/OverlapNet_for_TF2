@@ -1,0 +1,4 @@
+matplotlib==2.2.5
+sklearn
+tensorflow-gpu==1.15.0
+keras==2.1.5
